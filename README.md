@@ -5,6 +5,7 @@ Developed a predictive model using LightGBM to assess freshwater potability with
 The project emphasized key aspects of water quality analysis, including handling class imbalance, outlier detection, and exploring chemical composition factors.
 
 Key steps involved:
+
 Data Cleaning: Processed a comprehensive dataset with key water quality parameters, addressing missing values and ensuring data integrity.
 
 Outlier Detection: Identified and removed outliers to improve the accuracy and reliability of the model.
